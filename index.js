@@ -9,12 +9,12 @@ function writeCards(names, eventName) {
 	return messages
 }
 
-writeCards(['Charlie', 'Eva', 'Sam'], 'birthday')
+// writeCards(['Charlie', 'Eva', 'Sam'], 'birthday')
 
 // while ([condition]) {
 // 	[loop body]
 //   }
-let num = 5
+// let num = 5
 
 function countDown(num) {
 	while (num > -1){
